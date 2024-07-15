@@ -10,3 +10,8 @@ each of those states. When all of the neighbor states have been generated, we ch
 generated that have a lower heuristic value than the current state. If a better state was not found, then we have
 reached the local minima and must perform a random restart. If a better (lower heuristic) state was found, then that
 state becomes the current state and the above process is repeated on that state.
+
+Preview of code output: 
+![image](https://github.com/user-attachments/assets/8a844990-1365-42e8-a344-a91fd5295650)
+
+
